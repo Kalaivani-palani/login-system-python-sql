@@ -59,7 +59,7 @@ I developed this entire project on my mobile phone using Pydroid 3, which helped
 
 ## 🙌 About Me
 
-I’m a recent 12th graduate having foundational knowledge in Python and SQL. Consistentle Building projects to improve my skills.  
+I’m a recent 12th graduate having foundational knowledge in Python and SQL. Consistently Building projects to improve my skills.  
 
 I’m actively looking for internship opportunities where I can learn and grow with real-time experience.
 
